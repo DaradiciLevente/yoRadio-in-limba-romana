@@ -1,5 +1,5 @@
 # yoRadio in limba Romana versiune de teste!
-<img src="https://github.com/echosmart792/yoRadio-mods/blob/main/Romanian/images/yoRadioROU.png" width="360" height="160">
+<img src=https://i.imgur.com/JjPxwlY.png>
 
 yoRadio Romanian bazat pe proiectul original yoRadio: https://github.com/e2002/yoradio
 
