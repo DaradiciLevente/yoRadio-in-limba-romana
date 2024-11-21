@@ -1,6 +1,5 @@
 // File created with YoRadio Theme Editor created by Andr�s Daradics
-// File last modified: 11/21/2024 6:07:07 PM
-// GitHub: https://github.com/andrasdaradici/YoRadio-Theme-Editor
+// File last modified: 11/21/2024 6:12:33 PM
 // Itch.io: https://andrasdaradici.itch.io/yoradio-theme-editor
 #ifndef _my_theme_h
 #define _my_theme_h
@@ -32,9 +31,9 @@
 #define COLOR_DIVIDER    255,  255,  255
 #define COLOR_BITRATE    255,  255,  255
 #define COLOR_HEAP    255, 168, 162
-#define COLOR_PL_CURRENT    236,  0,  0
-#define COLOR_PL_CURRENT_BG    255,  255,  0
-#define COLOR_PL_CURRENT_FILL    255,  255,  0
+#define COLOR_PL_CURRENT    255,  255,  255
+#define COLOR_PL_CURRENT_BG    255,  0,  0
+#define COLOR_PL_CURRENT_FILL    255,  0,  0
 #define COLOR_PLAYLIST_0    255,  255,  0
 #define COLOR_PLAYLIST_1    175,  175,  0
 #define COLOR_PLAYLIST_2    105,  105,  0
