@@ -1,6 +1,5 @@
 // File created with YoRadio Theme Editor created by Andr�s Daradics
-// File last modified: 11/21/2024 6:24:25 PM
-// GitHub: https://github.com/andrasdaradici/YoRadio-Theme-Editor
+// File last modified: 11/21/2024 6:36:18 PM
 // Itch.io: https://andrasdaradici.itch.io/yoradio-theme-editor
 #ifndef _my_theme_h
 #define _my_theme_h
