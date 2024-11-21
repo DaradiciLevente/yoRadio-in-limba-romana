@@ -36,9 +36,11 @@ Setari retea WIFI si setari pentru afisari meteo
 
 Tema folosita:
 
-<img src="https://i.imgur.com/X7sWgkf.png">
+<img src=https://i.imgur.com/PSzP3R3.png>
 
-<img src="https://i.imgur.com/wYDWdBF.png">
+<img src=https://i.imgur.com/7j3U6V6.png>
+
+<img src=https://i.imgur.com/EsWTTDg.png>
 
 Tema poate fi editata foarte usor cu <b>yoRadio Theme Editor</b> creat de András Daradici
 Care poate fi descarcat de aici:
