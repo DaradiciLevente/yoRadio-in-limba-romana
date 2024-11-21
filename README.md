@@ -44,8 +44,7 @@ Tema folosita:
 
 Tema poate fi editata foarte usor cu <b>yoRadio Theme Editor</b> creat de András Daradici
 Care poate fi descarcat de aici:
-  - Versiunea Golden: https://andrasdaradici.itch.io/yoradio-theme-editor
-  - Versiunea obisnuita: https://andrasdaradici.itch.io/yoradio-theme-editor-legacy
+https://andrasdaradici.itch.io/yoradio-theme-editor
 
 Afisarea pe display arata astfel:
 
