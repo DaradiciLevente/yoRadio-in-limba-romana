@@ -46,6 +46,8 @@ Tema poate fi editata foarte usor cu <b>yoRadio Theme Editor</b> creat de Andrá
 Care poate fi descarcat de aici:
 https://andrasdaradici.itch.io/yoradio-theme-editor
 
+<img src=https://i.imgur.com/pby54Tm.png>
+
 Afisarea pe display arata astfel:
 
 https://youtube.com/shorts/-GlSg7B-ND4
