@@ -6,77 +6,77 @@
     Copy this file to yoRadio/locale/displayL10n_custom.h
     and modify it
 *************************************************************************************/
-const char mon[] PROGMEM = "пн";
-const char tue[] PROGMEM = "вт";
-const char wed[] PROGMEM = "ср";
-const char thu[] PROGMEM = "чт";
-const char fri[] PROGMEM = "пт";
-const char sat[] PROGMEM = "сб";
-const char sun[] PROGMEM = "вс";
+const char mon[] PROGMEM = "hé";
+const char tue[] PROGMEM = "ke";
+const char wed[] PROGMEM = "sz";
+const char thu[] PROGMEM = "cs";
+const char fri[] PROGMEM = "pé";
+const char sat[] PROGMEM = "SZ";
+const char sun[] PROGMEM = "VA";
 
-const char monf[] PROGMEM = "понедельник";
-const char tuef[] PROGMEM = "вторник";
-const char wedf[] PROGMEM = "среда";
-const char thuf[] PROGMEM = "четверг";
-const char frif[] PROGMEM = "пятница";
-const char satf[] PROGMEM = "суббота";
-const char sunf[] PROGMEM = "воскресенье";
+const char monf[] PROGMEM = "hétfő";
+const char tuef[] PROGMEM = "kedd";
+const char wedf[] PROGMEM = "szerda";
+const char thuf[] PROGMEM = "csütörtök";
+const char frif[] PROGMEM = "péntek";
+const char satf[] PROGMEM = "szombat";
+const char sunf[] PROGMEM = "vasárnap";
 
-const char jan[] PROGMEM = "января";
-const char feb[] PROGMEM = "февраля";
-const char mar[] PROGMEM = "марта";
-const char apr[] PROGMEM = "апреля";
-const char may[] PROGMEM = "мая";
-const char jun[] PROGMEM = "июня";
-const char jul[] PROGMEM = "июля";
-const char aug[] PROGMEM = "августа";
-const char sep[] PROGMEM = "сентября";
-const char oct[] PROGMEM = "октября";
-const char nov[] PROGMEM = "ноября";
-const char dec[] PROGMEM = "декабря";
+const char jan[] PROGMEM = "január";
+const char feb[] PROGMEM = "február";
+const char mar[] PROGMEM = "március";
+const char apr[] PROGMEM = "április";
+const char may[] PROGMEM = "május";
+const char jun[] PROGMEM = "június";
+const char jul[] PROGMEM = "július";
+const char aug[] PROGMEM = "augusztus";
+const char sep[] PROGMEM = "szeptember";
+const char oct[] PROGMEM = "október";
+const char nov[] PROGMEM = "november";
+const char dec[] PROGMEM = "december";
 
-const char wn_N[]      PROGMEM = "СЕВ";
-const char wn_NNE[]    PROGMEM = "ССВ";
-const char wn_NE[]     PROGMEM = "СВ";
-const char wn_ENE[]    PROGMEM = "ВСВ";
-const char wn_E[]      PROGMEM = "ВОСТ";
-const char wn_ESE[]    PROGMEM = "ВЮВ";
-const char wn_SE[]     PROGMEM = "ЮВ";
-const char wn_SSE[]    PROGMEM = "ЮЮВ";
-const char wn_S[]      PROGMEM = "ЮЖ";
-const char wn_SSW[]    PROGMEM = "ЮЮЗ";
-const char wn_SW[]     PROGMEM = "ЮЗ";
-const char wn_WSW[]    PROGMEM = "ЗЮЗ";
-const char wn_W[]      PROGMEM = "ЗАП";
-const char wn_WNW[]    PROGMEM = "ЗСЗ";
-const char wn_NW[]     PROGMEM = "СЗ";
-const char wn_NNW[]    PROGMEM = "ССЗ";
+const char wn_N[]      PROGMEM = "É";
+const char wn_NNE[]    PROGMEM = "É-ÉK";
+const char wn_NE[]     PROGMEM = "ÉK";
+const char wn_ENE[]    PROGMEM = "K-ÉK";
+const char wn_E[]      PROGMEM = "K";
+const char wn_ESE[]    PROGMEM = "K-DK";
+const char wn_SE[]     PROGMEM = "DK";
+const char wn_SSE[]    PROGMEM = "DK-D";
+const char wn_S[]      PROGMEM = "D";
+const char wn_SSW[]    PROGMEM = "D-DNy";
+const char wn_SW[]     PROGMEM = "DNy";
+const char wn_WSW[]    PROGMEM = "Ny-DNy";
+const char wn_W[]      PROGMEM = "Ny";
+const char wn_WNW[]    PROGMEM = "Ny-ÉNy";
+const char wn_NW[]     PROGMEM = "ÉNy";
+const char wn_NNW[]    PROGMEM = "ÉNy-Ny";
 
 const char* const dow[]     PROGMEM = { sun, mon, tue, wed, thu, fri, sat };
 const char* const dowf[]    PROGMEM = { sunf, monf, tuef, wedf, thuf, frif, satf };
 const char* const mnths[]   PROGMEM = { jan, feb, mar, apr, may, jun, jul, aug, sep, oct, nov, dec };
 const char* const wind[]    PROGMEM = { wn_N, wn_NNE, wn_NE, wn_ENE, wn_E, wn_ESE, wn_SE, wn_SSE, wn_S, wn_SSW, wn_SW, wn_WSW, wn_W, wn_WNW, wn_NW, wn_NNW, wn_N };
 
-const char    const_PlReady[]    PROGMEM = "[готов]";
-const char  const_PlStopped[]    PROGMEM = "[остановлено]";
-const char  const_PlConnect[]    PROGMEM = "[соединение]";
-const char  const_DlgVolume[]    PROGMEM = "ГРОМКОСТЬ";
-const char    const_DlgLost[]    PROGMEM = "ОТКЛЮЧЕНО";
-const char  const_DlgUpdate[]    PROGMEM = "ОБНОВЛЕНИЕ";
-const char const_DlgNextion[]    PROGMEM = "NEXTION";
+const char    const_PlReady[]    PROGMEM = "[kész]";
+const char  const_PlStopped[]    PROGMEM = "[stop]";
+const char  const_PlConnect[]    PROGMEM = "[csatlakozás]";
+const char  const_DlgVolume[]    PROGMEM = "Hangerő";
+const char    const_DlgLost[]    PROGMEM = "* LESZAKADT *";
+const char  const_DlgUpdate[]    PROGMEM = "* FRISSÍTES *";
+const char const_DlgNextion[]    PROGMEM = "* NEXTION *";
 const char const_getWeather[]    PROGMEM = "";
-const char  const_waitForSD[]    PROGMEM = "ИНДЕКС SD";
+const char  const_waitForSD[]    PROGMEM = "INDEX SD";
 
-const char        apNameTxt[]    PROGMEM = "ТОЧКА ДОСТУПА";
-const char        apPassTxt[]    PROGMEM = "ПАРОЛЬ";
-const char       bootstrFmt[]    PROGMEM = "Соединяюсь с %s";
-const char        apSettFmt[]    PROGMEM = "НАСТРОЙКИ: HTTP://%s/";
+const char        apNameTxt[]    PROGMEM = "WiFi AP";
+const char        apPassTxt[]    PROGMEM = "Jelszó";
+const char       bootstrFmt[]    PROGMEM = "Csatlakozás: %s";
+const char        apSettFmt[]    PROGMEM = "A rádió elérhetősége: HTTP://%s/";
 #if EXT_WEATHER
-const char       weatherFmt[]    PROGMEM = "%s, %.1f\011C \007 ощущается: %.1f\011C \007 давление: %d мм \007 влажность: %s%% \007 ветер: %.1f м/с [%s]";
+const char       weatherFmt[]    PROGMEM = "%s, %.1f\011C \007 hőérzet: %.1f\011C \007 légnyomás: %d hPa \007 páratartalom: %s%% \007 szél: %.1f m/s [%s] \007 nap: %s-%s";
 #else
-const char       weatherFmt[]    PROGMEM = "%s, %.1f\011C \007 давление: %d mm \007 влажность: %s%%";
+const char       weatherFmt[]    PROGMEM = "%s, %.1f\011C \007 légnyomás: %d hPa \007 páratartalom: %s%%";
 #endif
 const char     weatherUnits[]    PROGMEM = "metric";   /* standard, metric, imperial */
-const char      weatherLang[]    PROGMEM = "ru";       /* https://openweathermap.org/current#multi */
+const char      weatherLang[]    PROGMEM = "hu";       /* https://openweathermap.org/current#multi */
 
 #endif
